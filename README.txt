@@ -4,3 +4,4 @@ Words make for reading.
 
 line from temp directory
 
+Change made in class
